@@ -1,4 +1,7 @@
-Hi there, I'm [Your Name] 👋
+<h1 align="center">Hi there, I'm [Sammy John] 👋</h1>
+
+
+
 👨‍💻 About Me
 
 I'm a passionate Software Developer with a strong focus on Full-Stack Development. I specialize in building scalable and efficient web applications using modern technologies. With a background in [Your Field], I thrive on solving complex problems and contributing to open-source projects. Currently, I'm actively seeking new opportunities to apply my skills and grow my career.
