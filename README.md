@@ -49,22 +49,4 @@ Outside of computing (including gaming) I like to make the most of life and my k
 | **Design**      | [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/) [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/) |
 | **Others**      | [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/) [![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)](https://zapier.com) |
 
-🔥 Key Projects
-1. Personal Dashboard
 
-A Django-based personal productivity app that integrates tasks, calendar, and project management into a single platform. It replaces multiple apps with a customized intranet-style solution for managing time and projects efficiently.
-2. Nabutech Portfolio
-
-My professional portfolio showcasing various projects, including web applications, open-source contributions, and client work. Built with Django and React, it highlights my skills and experience in full-stack development.
-3. E-Commerce Platform
-
-A fully functional e-commerce site built with Django and React. Features include product management, shopping cart, payment integration, and user authentication.
-4. Open Source Contributions
-
-A collection of contributions to open-source projects. I actively contribute to the developer community, focusing on improving documentation, fixing bugs, and adding new features.
-🌐 Find Me Online
-
-    Portfolio: yourportfolio.com
-    Blog: yourblog.com - Where I write about tech, development tips, and tutorials.
-    LinkedIn: linkedin.com/in/yourname
-    GitHub: github.com/yourusername
