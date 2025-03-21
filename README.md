@@ -45,11 +45,7 @@ Outside of computing (including gaming) I like to make the most of life and my k
 | **Design**      | [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/) [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/) |
 | **Others**      | [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/) [![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)](https://zapier.com) |
 
-## 📊 GitHub Stats
-
-![Sammy John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sammy-John&show_icons=true&theme=default&hide_title=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sammy-John&layout=compact)
+---
 
 ## 📬 Let's Connect
 
