@@ -1,0 +1,19 @@
+name: Update Latest Blog Posts
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Every 6 hours
+  workflow_dispatch:       # Manual trigger option
+
+jobs:
+  update-readme:
+    name: Fetch RSS Feed and Update README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Blog Post Workflow
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://sammyjohnrawlinson.teknabu.com/blog/rss.xml"
+          max_post_count: 5
