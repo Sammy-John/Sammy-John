@@ -1,4 +1,4 @@
-name: Update Latest Blog Posts (Custom)
+name: Update Latest Blog Posts (Custom Script)
 
 on:
   schedule:
