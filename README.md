@@ -33,13 +33,6 @@ Outside of computing (including gaming) I like to make the most of life and my k
 
 ---
 
-🛠️ **To-Do**: Set up GitHub Actions to automate fetching the latest blog posts!  
-- [x] Create a GitHub Actions workflow to fetch the latest posts from RSS feed.  
-- [x] Update this section automatically with new blog posts.  
-- [ ] Test and validate the workflow.
-
----
-
 ## 🛠️ Tech Stack & Tools
 
 | **Category**    | **Technologies**                                                                                     |
