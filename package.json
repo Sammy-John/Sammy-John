@@ -1,0 +1,8 @@
+{
+  "name": "readme-updater",
+  "version": "1.0.0",
+  "main": "update-readme.js",
+  "dependencies": {
+    "rss-parser": "^3.12.0"
+  }
+}
