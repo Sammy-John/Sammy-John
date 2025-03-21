@@ -21,19 +21,16 @@ Outside of computing (including gaming) I like to make the most of life and my k
 
 ## 📝 Latest Blog Posts
 
-- [Post Title 1](https://yourblog.com/post-title-1) - A brief description of what this blog post covers or its main topic.
-- [Post Title 2](https://yourblog.com/post-title-2) - Another brief description summarizing the key focus of the post.
-- [Post Title 3](https://yourblog.com/post-title-3) - Outline the main idea or a takeaway from the post.
-- [Post Title 4](https://yourblog.com/post-title-4) - Highlight what readers can learn or gain from this article.
-- [Post Title 5](https://yourblog.com/post-title-5) - A quick note on the subject and why it might be interesting to your audience.
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-*👉 [Read more on the blog](https://yourblog.com)*
+👉 [Read more on the blog](https://sammyjohnrawlinson.teknabu.com/blog)
 
 ---
 
 🛠️ **To-Do**: Set up GitHub Actions to automate fetching the latest blog posts!  
-- [ ] Create a GitHub Actions workflow to fetch the latest posts from RSS feed.  
-- [ ] Update this section automatically with new blog posts.  
+- [x] Create a GitHub Actions workflow to fetch the latest posts from RSS feed.  
+- [x] Update this section automatically with new blog posts.  
 - [ ] Test and validate the workflow.
 
 ---
