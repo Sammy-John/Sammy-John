@@ -9,8 +9,10 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout repository using PAT token
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.PAT_TOKEN }}
 
       - name: Set up Node.js
         uses: actions/setup-node@v3
@@ -29,6 +31,5 @@ jobs:
           git config user.email "sjr.dev@protonmail.com"
           git add README.md
           git commit -m "chore: update latest blog posts [automated]" || echo "No changes to commit"
+          git push
 
-          git remote set-url origin https://Sammy-John:${{ secrets.PAT_TOKEN }}@github.com/Sammy-John/Sammy-John.git
-          git push origin main
