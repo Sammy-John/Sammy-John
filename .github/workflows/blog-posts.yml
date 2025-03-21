@@ -1,22 +1,32 @@
-name: Update Latest Blog Posts
+name: Update Latest Blog Posts (Custom)
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # Every 6 hours
-  workflow_dispatch:       # Manual trigger option
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
 
 jobs:
   update-readme:
-    name: Fetch RSS Feed and Update README
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-        with:
-          token: ${{ secrets.PAT_TOKEN }}
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-
-      - name: Blog Post Workflow
-        uses: gautamkrishnar/blog-post-workflow@master
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
         with:
-          feed_list: "https://sammyjohnrawlinson.teknabu.com/blog/rss.xml"
-          max_post_count: 5
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run script to update README
+        run: node update-readme.js
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "Sammy John Bot"
+          git config --global user.email "sjr.dev@protonmail.com"
+          git add README.md
+          git commit -m "chore: update latest blog posts [automated]" || echo "No changes to commit"
+          git push https://Sammy-John:${{ secrets.PAT_TOKEN }}@github.com/Sammy-John/Sammy-John.git HEAD:main
