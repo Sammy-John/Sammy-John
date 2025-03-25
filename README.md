@@ -23,11 +23,11 @@ Outside of computing (including gaming) I like to make the most of life and my k
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows under the Hood: Benefits of understanding the OS and Scripting for a Developer](https://sammyjohnrawlinson.teknabu.com/blog/Windows_UnderTheHood/)
 - [The Great Terminal Showdown: CMD Vs Bash](https://sammyjohnrawlinson.teknabu.com/blog/cmdVBash/)
 - [Choose a Programming Language: Choose Git, Choose Markdown](https://sammyjohnrawlinson.teknabu.com/blog/Choose_Git/)
 - [Learning to Code: Why you should learn to drive (your computer) first](https://sammyjohnrawlinson.teknabu.com/blog/LearnToDrive/)
 - [Building My First PC: A Personal Journey and Guide](https://sammyjohnrawlinson.teknabu.com/blog/MyBuild/)
-- [My Journey in Software Development: Year Three – The Final Ascent](https://sammyjohnrawlinson.teknabu.com/blog/Year-Three/)
 <!-- BLOG-POST-LIST:END -->
 
 👉 [Read more on the blog](https://sammyjohnrawlinson.teknabu.com/blog)
