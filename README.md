@@ -23,11 +23,11 @@ Outside of computing (including gaming) I like to make the most of life and my k
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [UI/UX: How I Learned To Love Design](https://sammyjohnrawlinson.teknabu.com/blog/UIUX/)
 - [C#: Programming Fundamentals Gateway](https://sammyjohnrawlinson.teknabu.com/blog/ProgrammingFundamentals/)
 - [Where to Start? Build Something you can see- HTML and CSS](https://sammyjohnrawlinson.teknabu.com/blog/HTML_CSS/)
 - [Windows under the Hood: Benefits of understanding the OS and Scripting for a Developer](https://sammyjohnrawlinson.teknabu.com/blog/Windows_UnderTheHood/)
 - [The Great Terminal Showdown: CMD Vs Bash](https://sammyjohnrawlinson.teknabu.com/blog/cmdVBash/)
-- [Choose a Programming Language: Choose Git, Choose Markdown](https://sammyjohnrawlinson.teknabu.com/blog/Choose_Git/)
 <!-- BLOG-POST-LIST:END -->
 
 👉 [Read more on the blog](https://sammyjohnrawlinson.teknabu.com/blog)
