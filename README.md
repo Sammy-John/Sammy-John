@@ -16,7 +16,7 @@
 
 I am a Software Developer and all round tech enthusiast based in Christchurch, NZ and love learning!
 
-I am a curious george and love exploring new ways of getting things done. This has led me to switch from 20 years in Hospitality to re-training, completing first a Diploma in Software Development and now a Bachelors in IT: Software Development.
+I am a curious george and love exploring new ways of getting things done. After 20 years in the hospitality industry, I made a career pivot into tech, completing a Diploma in Software Development followed by a Bachelor’s degree in IT.
 
 Outside of computing (including gaming) I like to make the most of life and my keen passions are travel, watching sport, creating new experiences and meeting new people.
 
