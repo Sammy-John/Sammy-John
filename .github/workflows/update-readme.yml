@@ -9,7 +9,10 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout with PAT
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.PERSONAL_TOKEN }}
 
       - name: Set up Node.js
         uses: actions/setup-node@v3
@@ -22,20 +25,14 @@ jobs:
       - name: Run update script
         env:
           PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
-        run: |
-          echo "Running update-profile.js..."
-          node update-profile.js
+        run: node update-profile.js
 
       - name: Commit and push changes
-        env:
-          PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          git remote remove origin
-          git remote add origin https://x-access-token:${PERSONAL_TOKEN}@github.com/${{ github.repository }}
           git add README.md
           git diff --cached --quiet || git commit -m "Auto-update featured projects and topics"
-          git push origin HEAD
+          git push
 
 
