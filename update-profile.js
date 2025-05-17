@@ -3,7 +3,7 @@ const fs = require("fs");
 const path = require("path");
 const fetch = require("node-fetch");
 
-const GITHUB_USERNAME = "sammyjohnrawlinson";
+const GITHUB_USERNAME = "Sammy-John";
 const MAX_PROJECTS = 5;
 const README_PATH = path.join(__dirname, "README.md");
 
