@@ -36,3 +36,4 @@ jobs:
           git add README.md
           git diff --cached --quiet || git commit -m "Auto-update featured projects and topics"
           git push origin HEAD
+
