@@ -15,7 +15,7 @@ const TOPICS_END = "<!-- TOPICS:END -->";
 (async () => {
   const res = await fetch(`https://api.github.com/users/${GITHUB_USERNAME}/repos?per_page=100`, {
     headers: {
-      "Authorization": `Bearer ${process.env.GITHUB_TOKEN}`,
+      "Authorization": `Bearer ${process.env.PERSONAL_TOKEN}`,
       "Accept": "application/vnd.github+json"
     }
   });
