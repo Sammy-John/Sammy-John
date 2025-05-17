@@ -36,6 +36,9 @@ Outside of computing (including gaming) I like to make the most of life and my k
 ## 🚀 Featured Projects
 
 <!-- FEATURED-PROJECTS:START -->
+### [CircleCI-LearningTool](https://github.com/SammyJohnRawlinson/CircleCI-LearningTool)
+_No description_
+
 <!-- FEATURED-PROJECTS:END -->
 
 ---
@@ -43,6 +46,7 @@ Outside of computing (including gaming) I like to make the most of life and my k
 ## 🧩 Topics I Work With
 
 <!-- TOPICS:START -->
+
 <!-- TOPICS:END -->
 
 ---
