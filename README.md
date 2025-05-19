@@ -36,6 +36,10 @@ Outside of computing (including gaming) I like to make the most of life and my k
 ## 🚀 Featured Projects
 
 <!-- FEATURED-PROJECTS:START -->
+### [teknabu_landing_page](https://github.com/Sammy-John/teknabu_landing_page)
+Personal Brand Landing Page
+
+
 ### [Sammy-John](https://github.com/Sammy-John/Sammy-John)
 Config files for my GitHub profile.
 **Tags:** `config`, `github-config`
@@ -51,10 +55,6 @@ A modular Windows configuration toolkit with a WPF frontend and PowerShell backe
 ### [project-manager-app](https://github.com/Sammy-John/project-manager-app)
 A cross-platform desktop app for managing projects and tasks, built with Electron, SQLite, and a developer-focused dark UI.
 **Tags:** `electron`, `javascript`, `knexjs`, `sqlite`
-
-### [nasa-earthdata-dashboard](https://github.com/Sammy-John/nasa-earthdata-dashboard)
-A full-stack dashboard for visualizing NASA EarthData over New Zealand, built with Angular and .NET Core — featuring interactive charts, API integration, and responsive design.
-**Tags:** `angular`, `dotnet-core`, `nasa-api`
 <!-- FEATURED-PROJECTS:END -->
 
 ---
@@ -62,7 +62,7 @@ A full-stack dashboard for visualizing NASA EarthData over New Zealand, built wi
 ## 🧩 Topics I Work With
 
 <!-- TOPICS:START -->
-`config` `github-config` `javascript` `markdown` `csharp` `powershell` `wpf` `electron` `knexjs` `sqlite` `angular` `dotnet-core` `nasa-api`
+`config` `github-config` `javascript` `markdown` `csharp` `powershell` `wpf` `electron` `knexjs` `sqlite`
 <!-- TOPICS:END -->
 
 ---
