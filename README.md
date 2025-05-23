@@ -36,6 +36,10 @@ Outside of computing (including gaming) I like to make the most of life and my k
 ## 🚀 Featured Projects
 
 <!-- FEATURED-PROJECTS:START -->
+### [personal-library-manager](https://github.com/Sammy-John/personal-library-manager)
+A WPF desktop application for managing your personal book collection. Built with C# and .NET, following best practices in clean architecture, design patterns, and SDLC documentation.
+
+
 ### [teknabu_landing_page](https://github.com/Sammy-John/teknabu_landing_page)
 Personal Brand Landing Page
 
@@ -51,10 +55,6 @@ A self-hosted Markdown viewer that organizes local .md files into a dynamic side
 ### [WinOps-Toolkit](https://github.com/Sammy-John/WinOps-Toolkit)
 A modular Windows configuration toolkit with a WPF frontend and PowerShell backend — automating file cleanup, power profiles, and task scheduling.
 **Tags:** `csharp`, `powershell`, `wpf`
-
-### [project-manager-app](https://github.com/Sammy-John/project-manager-app)
-A cross-platform desktop app for managing projects and tasks, built with Electron, SQLite, and a developer-focused dark UI.
-**Tags:** `electron`, `javascript`, `knexjs`, `sqlite`
 <!-- FEATURED-PROJECTS:END -->
 
 ---
@@ -62,7 +62,7 @@ A cross-platform desktop app for managing projects and tasks, built with Electro
 ## 🧩 Topics I Work With
 
 <!-- TOPICS:START -->
-`config` `github-config` `javascript` `markdown` `csharp` `powershell` `wpf` `electron` `knexjs` `sqlite`
+`config` `github-config` `javascript` `markdown` `csharp` `powershell` `wpf`
 <!-- TOPICS:END -->
 
 ---
