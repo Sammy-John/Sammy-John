@@ -36,6 +36,10 @@ Outside of computing (including gaming) I like to make the most of life and my k
 ## 🚀 Featured Projects
 
 <!-- FEATURED-PROJECTS:START -->
+### [Sammy-John](https://github.com/Sammy-John/Sammy-John)
+Config files for my GitHub profile.
+**Tags:** `config`, `github-config`
+
 ### [personal-library-manager](https://github.com/Sammy-John/personal-library-manager)
 A WPF desktop application for managing your personal book collection. Built with C# and .NET, following best practices in clean architecture, design patterns, and SDLC documentation.
 
@@ -43,10 +47,6 @@ A WPF desktop application for managing your personal book collection. Built with
 ### [teknabu_landing_page](https://github.com/Sammy-John/teknabu_landing_page)
 Personal Brand Landing Page
 
-
-### [Sammy-John](https://github.com/Sammy-John/Sammy-John)
-Config files for my GitHub profile.
-**Tags:** `config`, `github-config`
 
 ### [note-viewer](https://github.com/Sammy-John/note-viewer)
 A self-hosted Markdown viewer that organizes local .md files into a dynamic sidebar for quick offline reference — no server or database required.
