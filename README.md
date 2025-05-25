@@ -36,13 +36,13 @@ Outside of computing (including gaming) I like to make the most of life and my k
 ## 🚀 Featured Projects
 
 <!-- FEATURED-PROJECTS:START -->
-### [Sammy-John](https://github.com/Sammy-John/Sammy-John)
-Config files for my GitHub profile.
-**Tags:** `config`, `github-config`
-
 ### [personal-library-manager](https://github.com/Sammy-John/personal-library-manager)
 A WPF desktop application for managing your personal book collection. Built with C# and .NET, following best practices in clean architecture, design patterns, and SDLC documentation.
 
+
+### [Sammy-John](https://github.com/Sammy-John/Sammy-John)
+Config files for my GitHub profile.
+**Tags:** `config`, `github-config`
 
 ### [teknabu_landing_page](https://github.com/Sammy-John/teknabu_landing_page)
 Personal Brand Landing Page
